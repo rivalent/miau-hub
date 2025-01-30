@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>FAZ UM ARROZ PRA NÓS, ALI NA PANELA ELÉTRICA</h1>;
+  return <h1>2% melhor que anteontem</h1>;
 }
 
 function testeprettier() {
